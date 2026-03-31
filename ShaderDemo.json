@@ -1,11 +1,11 @@
 {
   "id": "ShaderDemo",
-  "name": "ShaderDemo",
+  "name": "Shader Demo",
   "author": "Indi",
-  "description": "Slay the Spire 2 mod created from a template for use with BaseLib",
+  "description": "Demo for using shaders in StS2",
   "version": "v0.0.0",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": ["BaseLib"],
+  "dependencies": [],
   "affects_gameplay": true
 }
